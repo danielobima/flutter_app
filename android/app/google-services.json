@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "479371676174",
+    "firebase_url": "https://daniels-budget-app-default-rtdb.firebaseio.com",
+    "project_id": "daniels-budget-app",
+    "storage_bucket": "daniels-budget-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479371676174:android:b678f3ebcba206367f4a5f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479371676174-igqrh3633b2u0a75tvi2sl84j01tvcj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkuCP03mpdpGI6mnP89wFnfRQk6umb7gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479371676174-igqrh3633b2u0a75tvi2sl84j01tvcj4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "479371676174-7m15r8ogcctvgn1j1urcpa27e3fnlbbt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
